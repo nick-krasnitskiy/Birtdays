@@ -11,6 +11,7 @@
 		ECAB4BAE2C4006E1003FEE8B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECAB4BAD2C4006E1003FEE8B /* ContentView.swift */; };
 		ECAB4BB02C4006E5003FEE8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECAB4BAF2C4006E5003FEE8B /* Assets.xcassets */; };
 		ECAB4BB42C4006E5003FEE8B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECAB4BB32C4006E5003FEE8B /* Preview Assets.xcassets */; };
+		ECAB4BBB2C40082A003FEE8B /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECAB4BBA2C40082A003FEE8B /* Friend.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		ECAB4BAF2C4006E5003FEE8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECAB4BB12C4006E5003FEE8B /* Birtdays.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Birtdays.entitlements; sourceTree = "<group>"; };
 		ECAB4BB32C4006E5003FEE8B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ECAB4BBA2C40082A003FEE8B /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				ECAB4BAB2C4006E1003FEE8B /* BirtdaysApp.swift */,
+				ECAB4BBA2C40082A003FEE8B /* Friend.swift */,
 				ECAB4BAD2C4006E1003FEE8B /* ContentView.swift */,
 				ECAB4BAF2C4006E5003FEE8B /* Assets.xcassets */,
 				ECAB4BB12C4006E5003FEE8B /* Birtdays.entitlements */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECAB4BBB2C40082A003FEE8B /* Friend.swift in Sources */,
 				ECAB4BAE2C4006E1003FEE8B /* ContentView.swift in Sources */,
 				ECAB4BAC2C4006E1003FEE8B /* BirtdaysApp.swift in Sources */,
 			);
